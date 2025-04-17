@@ -66,3 +66,7 @@ harness = false
 [[bench]]
 name = "bench_gradient"
 harness = false
+
+[[bench]]
+name = "special_bench_abstract"
+harness = false
